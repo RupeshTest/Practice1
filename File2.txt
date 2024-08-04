@@ -1,0 +1,2 @@
+This is File 2.
+Added for some more demo text in file2.
