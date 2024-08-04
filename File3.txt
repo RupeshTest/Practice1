@@ -1,1 +1,2 @@
 This is File3.
+Here is new file content from pratics5.
